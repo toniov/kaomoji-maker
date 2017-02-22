@@ -1,0 +1,33 @@
+{
+  "name": "kaomoji-maker",
+  "version": "0.1.0",
+  "description": "Kaomoji maker running on Node.js",
+  "main": "index.js",
+  "dependencies": {
+    "copy-paste": "^1.3.0",
+    "inquirer": "^3.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antonvs2/kaomoji-maker"
+  },
+  "keywords": [
+    "kaomoji",
+    "emoticon",
+    "donger",
+    "cli",
+    "node.js",
+    "javascript",
+    "inquirer"
+  ],
+  "author": "Antonio Valverde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonvs2/kaomoji-maker/issues"
+  },
+  "homepage": "https://github.com/antonvs2/kaomoji-maker#readme"
+}
