@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/antonvs2/kaomoji-maker/issues"
   },
-  "homepage": "https://github.com/antonvs2/kaomoji-maker#readme"
+  "homepage": "https://github.com/antonvs2/kaomoji-maker#readme",
+  "engines": {
+    "node": ">=6.0.0"
+  }
 }
