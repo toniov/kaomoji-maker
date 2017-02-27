@@ -1,6 +1,6 @@
 {
   "name": "kaomoji-maker",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Interactive kaomoji maker running on Node.js",
   "bin": {
     "kaomoji-maker": "./bin/kaomoji-maker"
