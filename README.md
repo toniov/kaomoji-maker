@@ -4,6 +4,8 @@ Create many types of kaomoji using an interactive CLI application run by Node.js
 
 * [x] Interactive CLI powered by [Inquirer.js](https://github.com/SBoudrias/Inquirer.js/).
 * [x] ES6 usage making heavy use of Promises
+* [x] Cross-platform (Windows, Mac OS X, Linux)
+* [x] Most used terminals [support](https://github.com/sboudrias/Inquirer.js#support-os-terminals)
 
 ## But what is a kaomoji?
 
@@ -50,6 +52,6 @@ Remove multiple kaomoji from saved list.
 
 Exit CLI.
 
-## Contribution
+## Contributing
 
 Pull requests with new parts (under `lib/parts`) are welcome. Of course, PR or issues with new functionality and bug fixes are more than welcome too.
