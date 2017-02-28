@@ -1,5 +1,7 @@
 # kaomoji-maker
 
+![demo](demo.gif)
+
 Create many types of kaomoji using an interactive CLI application run by Node.js.
 
 * [x] Interactive CLI powered by [Inquirer.js](https://github.com/SBoudrias/Inquirer.js/).
